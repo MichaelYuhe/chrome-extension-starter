@@ -2,6 +2,11 @@
   "manifest_version": 3,
   "name": "Chrome Extension Starter",
   "description": "Chrome extension starter template with React, TypeScript, Vite and Tailwind",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
   "version": "1.0",
   "options_ui": {
     "page": "options.html",
