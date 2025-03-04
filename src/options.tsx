@@ -1,6 +1,6 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
-import "./global.css";
+import "./options.css";
 
 const Options = () => {
   return (

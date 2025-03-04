@@ -1,6 +1,6 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
-import "./global.css";
+import "./popup.css";
 
 const Popup = () => {
   return <div className="p-6 min-w-[24rem]"></div>;
